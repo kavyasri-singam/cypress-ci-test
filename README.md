@@ -1,0 +1,5 @@
+# Cypress E2E CI Test
+
+![Cypress Tests](https://github.com/kavyasri-singam/cypress-ci-test/actions/workflows/test-upload.yml/badge.svg)
+
+This project contains end-to-end tests using Cypress and GitHub Actions for CI/CD.
